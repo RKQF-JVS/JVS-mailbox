@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>邮件配置引导</title>
+  <link rel="icon" href="./favicon.ico">
+  <style>
+    body {
+      max-width: 1200px;
+      display: block;
+      margin: 0 auto;
+    }
+    .mail-container {
+      display: flex;
+      flex-direction: column;
+      padding: 10px;
+    }
+    .center {
+      text-align: center;
+    }
+    img {
+      width: 100%;
+    }
+    p.content {
+      margin: 0;
+      line-height: 26px;
+    }
+    .title {
+      text-align: left;
+      font-weight: 700;
+    }
+    @media (min-width: 750px){
+      body {
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+<div class="mail-container">
+    <h2 class="center">邮件配置引导</h2>
+  <p class="title">1、全局说明</p>
+  <p class="content">目前支持使用163、126、QQ、腾讯企业邮及其他支持配置P0P3、IMAP协议的邮箱，可配置账户昵称、选择服务协议，收发速度更快更好。SSl勾选代表加密，让邮件信息更安全。<br>配置成功后，如果在163、126、QQ、腾讯企业邮及其他支持P0P3、IMAP协议的邮箱平台，关闭了服务，轻舟平台进行收发邮件将会失败，如果更新了授权码，需在轻舟平台的账户配置中同步更新，否则也会收发失败</p>
+  <p><img src="./static/img/mail/1.png" alt=""></p>
+  <p class="title">2、腾讯企业邮</p>
+  <p class="content">腾讯企业邮只需要输入邮箱账号、登录密码，没有授权码，但需关闭安全登录，才可在第三方授权使用，位置在设置-账户-设置安全登录</p>
+  <p><img src="./static/img/mail/2.png" alt=""></p>
+  <p class="title">3、QQ邮箱</p>
+  <p class="content">QQ邮箱需要输入邮箱账号、授权码登录，授权的获取步骤如下：设置-账户-P0P3/IMAP/SMTP/Exchange服务，将对应的服务<br>开启，如果状态为已开启，也需要点击关闭，再一次开启获取授权码</p>
+  <p><img src="./static/img/mail/3.png" alt=""></p>
+  <p><img src="./static/img/mail/4.png" alt=""></p>
+  <p><img src="./static/img/mail/5.png" alt=""></p>
+  <p class="title">4、163邮箱</p>
+  <p class="content">163邮箱需要输入邮箱账号、授权码登录，授权的获取步骤如下：设置-P0P3/IMAP/SMTP，根据流程开启对应的服务，与QQ邮箱不同的是：如果已经开启过服务，忘记了授权码，不能关闭，再开启获取授权码，需要将授权码管理中的记录删除，或则新增授权码</p>
+  <p><img src="./static/img/mail/6.png" alt=""></p>
+  <p><img src="./static/img/mail/7.png" alt=""></p>
+  <p><img src="./static/img/mail/8.png" alt=""></p>
+  <p><img src="./static/img/mail/9.png" alt=""></p>
+  <p class="title">5、126邮箱</p>
+  <p class="content">126邮箱需要输入邮箱账号、授权码登录，授权的获取步骤如下：设置-P0P3/IMAP/SMTP，根据流程开启对应的服务，与QQ邮箱不同的是：如果已经开启过服务，忘记了授权码，不能关闭，再开启获取授权码，需要将授权码管理中的记录删除，或则新增授权码，与163邮箱一致</p>
+  <p><img src="./static/img/mail/10.png" alt=""></p>
+
+</div>
+</body>
+</html>

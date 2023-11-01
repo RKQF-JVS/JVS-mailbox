@@ -1,0 +1,54 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>轻舟下载</title>
+  <link rel="icon" href="./favicon.ico">
+  <link rel="stylesheet" href="./static/css/style.css">
+  <script type="text/javascript" src="./static/js/qrcode.min.js"></script>
+</head>
+<body>
+<div>
+  <div class="download_container_left">
+    <div class="logo_info flex-center">
+      <img src="./static/img/logo.png" class="logo_img" alt="">
+    </div>
+    <img src="./static/img/left.png"class="left-img" alt="">
+  </div>
+  <div class="download_container">
+    <div class="headerInfo">
+      <div class="headerSub">轻舟·让工作更轻松</div>
+    </div>
+
+    <div class="download_info">
+      <a href="https://183.230.177.156/%e8%bd%bb%e8%88%9f.apk" target="_blank" class="download_row flex-center cursor">
+        <div class="download_icon_container flex-center">
+          <img src="./static/img/phone_icon.png" style="width: 20px;" alt="">
+        </div>
+        <span class="download_txt">安卓手机扫码下载</span>
+      </a>
+      <a href="https://183.230.177.156/%e8%bd%bb%e8%88%9f.exe" target="_blank" class="download_row flex-center cursor">
+        <div class="download_icon_container flex-center">
+          <img src="./static/img/pc_icon.png" style="width: 26px;" alt="">
+        </div>
+        <span class="download_txt">Windows点击下载</span>
+      </a>
+    </div>
+    <div class="qrcodeOuter">
+      <div id="qrcode"></div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+  const qrcode = new QRCode(document.getElementById("qrcode"), {
+    width: 190,
+    height: 190
+  })
+
+  let android_download_url = 'https://183.230.177.156/%e8%bd%bb%e8%88%9f.apk'
+  qrcode.makeCode(android_download_url)
+</script>
+</body>
+</html>
