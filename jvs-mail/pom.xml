@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>cn.bctools</groupId>
+        <artifactId>jvs</artifactId>
+        <version>2.1.5</version>
+    </parent>
+
+    <groupId>cn.bctools</groupId>
+    <artifactId>jvs-mail</artifactId>
+    <version>2.1.5</version>
+    <packaging>pom</packaging>
+
+    <properties>
+        <!--使用依赖包-->
+        <jvs.version>2.1.6</jvs.version>
+    </properties>
+
+    <modules>
+        <!--biz，对外的API接口-->
+        <module>mail-api</module>
+        <!--基础公共包-->
+        <module>mail-common</module>
+        <!--后台管理-->
+        <module>mail-mgr</module>
+        <!--对外开放的服务接口-->
+        <module>mail-biz</module>
+    </modules>
+
+</project>
