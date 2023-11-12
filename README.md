@@ -26,12 +26,16 @@
 
 地址说明：
 
-- 管理平台（含管理平台、低代码、数据智仓）：https://frame.bctools.cn/
+- 管理平台（含管理平台）：https://frame.bctools.cn/
+
 - 企业文档：http://knowledge.bctools.cn/
 - 企业计划（项目管理）：http://teamwork.bctools.cn/
 - 企业邮筒（Web邮箱客户端）：http://mailbox.bctools.cn/
-- 规则引擎：http://jvs-rules.bctools.cn/
+- 规则引擎（风控）：http://rules.bctools.cn/
+- 逻辑引擎（服务编排）：http://logic.bctools.cn/
 - 视频会议：http://meeting.bctools.cn/
+- 低代码（需要有配置权限）：https://frame.bctools.cn/
+- 数据分析（BI）：https://bi.bctools.cn/
 
 整体项目文档群 [点击跳转](http://knowledge.bctools.cn/#/view?id=dd37733c43c064ac1c4f1c2155e04ce6)
 
