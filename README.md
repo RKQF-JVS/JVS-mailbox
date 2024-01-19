@@ -64,6 +64,7 @@
 禁止在未备案的情况下，私自使用（包含自用与商用）
 #### 技术交流与商务支持：
 
-![群二维码](https://github.com/RKQF-JVS/JVS-mailbox-QQ-web-/assets/94048608/5332fca7-ad0f-4352-a10f-43ef099bbcad)
+![群二维码](https://github.com/RKQF-JVS/JVS-mailbox-QQ-web-/assets/94048608/a65fbb37-f111-4628-82f7-322cdd8d859b)
+
 
 
