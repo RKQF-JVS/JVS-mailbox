@@ -1,4 +1,4 @@
-# JVS-mailbox
+![微信图片_20250211100806](https://github.com/user-attachments/assets/b63bc71d-f1f3-4978-adb8-005a29a3a5e0)# JVS-mailbox
 
 #### 介绍
 企业邮筒，基于B/S模式的邮件客户端，采用JVS的统一用户体系，作为JVS的协同办公的应用之一。
@@ -36,6 +36,7 @@
 - 视频会议：http://meeting.bctools.cn/
 - 低代码（需要有配置权限）：https://frame.bctools.cn/
 - 数据分析（BI）：https://bi.bctools.cn/
+- APS（智能排产）：https://aps.bctools.cn/
 
 整体项目文档群 [点击跳转](http://knowledge.bctools.cn/#/view?id=dd37733c43c064ac1c4f1c2155e04ce6)
 
@@ -63,7 +64,7 @@
 在未获得我方认可分发代码的情况下，禁止以任何形式进行代码分发（包含但不限于代码拷贝、代码公开、代码开源、代码分享等行为）
 禁止在未备案的情况下，私自使用（包含自用与商用）
 #### 技术交流与商务支持：
-![群二维码](https://github.com/RKQF-JVS/JVS-mailbox/assets/94048608/93661e66-24c0-408b-a196-62ce9b631200)
+![微信图片_20250211100806](https://github.com/user-attachments/assets/dffeac99-1808-49ad-b85a-4fc673fa0fe0)
 
 
 
