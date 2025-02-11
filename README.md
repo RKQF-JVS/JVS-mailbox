@@ -1,4 +1,4 @@
-![微信图片_20250211100806](https://github.com/user-attachments/assets/b63bc71d-f1f3-4978-adb8-005a29a3a5e0)# JVS-mailbox
+# JVS-mailbox
 
 #### 介绍
 企业邮筒，基于B/S模式的邮件客户端，采用JVS的统一用户体系，作为JVS的协同办公的应用之一。
