@@ -65,7 +65,7 @@
 在未获得我方认可分发代码的情况下，禁止以任何形式进行代码分发（包含但不限于代码拷贝、代码公开、代码开源、代码分享等行为）
 禁止在未备案的情况下，私自使用（包含自用与商用）
 #### 技术交流与商务支持：
-<img width="207" height="340" alt="微信图片_20251203102839_148_235" src="https://github.com/user-attachments/assets/4278fc4d-4ac6-4e98-ac95-5ff76a0078e2" />
+<img width="228" height="373" alt="微信图片_20251210140117_156_235" src="https://github.com/user-attachments/assets/ef8fbfd7-e852-47f2-b5c6-49f7070287f1" />
 
 
 
